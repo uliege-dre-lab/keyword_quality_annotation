@@ -10,4 +10,5 @@ License](http://creativecommons.org/licenses/by/4.0/).
 ### Acknowledgements
 * This work was funded by the Fonds de la Recherche Scientifique – FNRS under Grant No. MIS F.4016.24. 
 ### Citation
-* TBD
+* Kerre, D., Debruyne, C., Owuor, D., & Simiyu, D. (2026). Human-annotated dataset of keyword quality in open data [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23661772
+* Kerre, D., Debruyne, C., Owuor, D., & Simiyu, D. (2026). An Annotation Framework and Benchmark Dataset for Keyword Quality in Open Data (submitted to the Data in Brief Journal).
